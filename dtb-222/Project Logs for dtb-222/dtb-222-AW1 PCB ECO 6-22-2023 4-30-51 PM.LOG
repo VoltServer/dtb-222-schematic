@@ -1,0 +1,13 @@
+Added Component: Designator=J?(67997-206HLF)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "67997-206HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "CONN HEADER VERT 6POS 2.54MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "609-3234-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LJ VCC Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=NetJ1_12 Pin=J?-3
+Added Pin To Net: NetName=NetJ1_5 Pin=J?-4
+Added Pin To Net: NetName=NetJ1_13 Pin=J?-5
+Added Pin To Net: NetName=NetJ1_6 Pin=J?-6
+Added Member To Class: ClassName=dtb-222-connectors Member=Component J? 6POS 0.100' Header

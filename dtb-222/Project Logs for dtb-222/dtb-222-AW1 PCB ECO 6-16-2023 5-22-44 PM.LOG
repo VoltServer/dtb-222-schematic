@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetJ4_2 Pin=T5-7
+Removed Pin From Net: NetName=NetJ4_4 Pin=T5-8
+Removed Pin From Net: NetName=NetJ4_6 Pin=T5-9
+Removed Pin From Net: NetName=NetJ4_8 Pin=T5-10
+Removed Pin From Net: NetName=NetJ3_2 Pin=T5-11
+Removed Pin From Net: NetName=NetJ3_4 Pin=T5-12
+Removed Pin From Net: NetName=NetJ3_6 Pin=T5-13
+Removed Pin From Net: NetName=NetJ3_8 Pin=T5-14
+Removed Pin From Net: NetName=NetJ4_1 Pin=T6-7
+Removed Pin From Net: NetName=NetJ4_3 Pin=T6-8
+Removed Pin From Net: NetName=NetJ4_5 Pin=T6-9
+Removed Pin From Net: NetName=NetJ4_7 Pin=T6-10
+Removed Pin From Net: NetName=NetJ3_1 Pin=T6-11
+Removed Pin From Net: NetName=NetJ3_3 Pin=T6-12
+Removed Pin From Net: NetName=NetJ3_5 Pin=T6-13
+Removed Pin From Net: NetName=NetJ3_7 Pin=T6-14
+Added Pin To Net: NetName=NetJ4_7 Pin=T5-7
+Added Pin To Net: NetName=NetJ4_5 Pin=T5-8
+Added Pin To Net: NetName=NetJ4_3 Pin=T5-9
+Added Pin To Net: NetName=NetJ4_1 Pin=T5-10
+Added Pin To Net: NetName=NetJ3_7 Pin=T5-11
+Added Pin To Net: NetName=NetJ3_5 Pin=T5-12
+Added Pin To Net: NetName=NetJ3_3 Pin=T5-13
+Added Pin To Net: NetName=NetJ3_1 Pin=T5-14
+Added Pin To Net: NetName=NetJ4_8 Pin=T6-7
+Added Pin To Net: NetName=NetJ4_6 Pin=T6-8
+Added Pin To Net: NetName=NetJ4_4 Pin=T6-9
+Added Pin To Net: NetName=NetJ4_2 Pin=T6-10
+Added Pin To Net: NetName=NetJ3_8 Pin=T6-11
+Added Pin To Net: NetName=NetJ3_6 Pin=T6-12
+Added Pin To Net: NetName=NetJ3_4 Pin=T6-13
+Added Pin To Net: NetName=NetJ3_2 Pin=T6-14
+Added Member To Class: ClassName=dtb-222-relays Member=Component D2 ES1J
+Added Member To Class: ClassName=dtb-222-relays Member=Component LED2 APT1608LVBC/D
+Added Member To Class: ClassName=dtb-222-relays Member=Component R2 RES 1.2K OHM 5% 3/4W 2010

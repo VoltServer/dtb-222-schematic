@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED1_1
+Added Member To Class: ClassName=dtb-222-relays Member=Component T2 RELAY DPDT 8A 24V
+Added Member To Class: ClassName=dtb-222-relays Member=Component T4 RELAY DPDT 8A 24V
+Added Member To Class: ClassName=dtb-222-relays Member=Component T5 4PDT Relay
+Added Member To Class: ClassName=dtb-222-relays Member=Component T6 4PDT Relay

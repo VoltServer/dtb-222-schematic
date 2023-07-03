@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [dtb-222.PrjPcb]
+   Generated File[dtb-222-AW1.RUL]
+   Generated File[dtb-222-AW1.EXTREP]
+   Generated File[dtb-222-AW1.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:47:44 PM On 6/23/2023
